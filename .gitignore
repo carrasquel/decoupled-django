@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# database
+
+decoupleddjango.sqlite3
+
+# migrations
+
+migrations/
